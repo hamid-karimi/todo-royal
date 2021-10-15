@@ -1,0 +1,8 @@
+.todo__list{
+    text-align:center;
+    display: flex;
+}
+.todo__list > li{
+    cursor: pointer;
+    border-bottom: 1px gray solid;
+}
